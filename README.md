@@ -83,5 +83,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 ---
 
 <p align="center">Made with 💜 by Gabriel Stresser</p>
-=======
->>>>>>> 48484b5a27298c692591a56c37768d9216f179d1
