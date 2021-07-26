@@ -7,13 +7,10 @@
 
 <br>
 
-<<<<<<< HEAD
 <p align="center">
   <a href="./LICENSE">
   <img src="https://img.shields.io/github/license/Gabriel9Stresser/PokemonDeck-Jest-React"/>
   </a>
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Gabriel9Stresser/PokemonDeck-Jest-React" />
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Gabriel9Stresser/PokemonDeck-Jest-React" />
   <img alt="" src="https://img.shields.io/github/repo-size/Gabriel9Stresser/PokemonDeck-Jest-React" />
   <img alt="Standard - JavaScript Style Guide" src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg" />
   <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Gabriel9Stresser/PokemonDeck-Jest-React" />
