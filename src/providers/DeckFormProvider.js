@@ -62,7 +62,7 @@ const DeckFormProvider = ({children, history, match}) => {
         return !!(deckName);
     };
 
-    const validateCardsLimit = (min = 24, max = 60) => {
+    const validateCardsLimit = (min = 6, max = 60) => {
         const total = deckCards.reduce((acc, card) => acc + card.count, 0);
 
         return total >= min && total <= max;
